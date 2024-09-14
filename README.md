@@ -26,8 +26,4 @@ CodeConnect é uma plataforma colaborativa que permite a desenvolvedores de todo
 
   * HTML5: Estrutura da página.
   * CSS3: Estilização da página.
-  * JavaScript: Interatividade e funcionalidades (biblioteca X, Y, Z).
-
-## Demonstração
-
-[Link para um vídeo ou imagem demonstrando a aplicação]
+  * JavaScript: Interatividade e funcionalidades.
